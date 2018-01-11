@@ -1,2 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="repository.todiment" name="Todiment Repo" version="0.0.1b" provider-name="Todiment">
+	<extension point="xbmc.addon.repository" name="Todiment">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/Todiment/todiment/master/repo/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Todiment/todiment/master/repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Todiment/todiment/raw/master/repo/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Todiment Repo</summary>
+		<description>Todiment Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
 </addons>
