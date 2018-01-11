@@ -1,2 +1,0 @@
-# todiment
-The Todiment repository.
