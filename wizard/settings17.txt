@@ -1,0 +1,6 @@
+name="0 Cache"
+section="no"
+url="https://raw.githubusercontent.com/Todiment/todiment/master/wizard/170cache.xml"
+icon="https://raw.githubusercontent.com/Todiment/todiment/master/pictures/wizard/maintenance.png" 
+fanart="https://raw.githubusercontent.com/Todiment/todiment/master/pictures/wizard/fanart.jpg"
+description="Kodi Krypton - 0 Cache Setting"
