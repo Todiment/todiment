@@ -1,0 +1,6 @@
+name="[COLOR smokewhite]Krypton (v17) Maintenance Settings [/COLOR]"
+section="yes"
+url="https://raw.githubusercontent.com/Todiment/todiment/master/wizard/settings17.txt"
+icon="https://raw.githubusercontent.com/Todiment/todiment/master/pictures/wizard/maintenance.png" 
+fanart="https://raw.githubusercontent.com/Todiment/todiment/master/pictures/wizard/fanart.jpg"
+description="Maintenance Settings For Kodi Krypton."
