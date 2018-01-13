@@ -1,6 +1,6 @@
 name="[COLOR white]== Adult Addons ==[/COLOR]"
 plugin="section"
-url="http://"
+url="https://raw.githubusercontent.com/Todiment/todiment/master/wizard/adult.txt"
 repository="none"
 repositoryxml="http://"
 repositoryurl="http://"
