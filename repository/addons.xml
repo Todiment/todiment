@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.todiment" name="T[COLOR darkcyan]odiment[/COLOR]" version="0.0.1b" provider-name="Todiment/midraal ">
+<addon id="plugin.video.todiment" name="T[COLOR darkcyan]odiment[/COLOR]" version="0.9.9b" provider-name="Todiment/midraal ">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
